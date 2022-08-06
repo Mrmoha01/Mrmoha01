@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
 <h1 align="center">Hello World 👋, I'm Moha</h1>
 <h3 align="center">One Day Or Day One,You Decide!</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
